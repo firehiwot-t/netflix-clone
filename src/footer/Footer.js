@@ -65,8 +65,8 @@ function Footer() {
       </li>
     </ul>
     </div>
-    <h3>
-    Firehiwot Tadesse
+    <h3> 
+    Firehiwot T
     </h3>
   </div>
   );
